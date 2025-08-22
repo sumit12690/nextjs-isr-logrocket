@@ -6,8 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.0.4",
-    "node-fetch": "^2.6.1",
+    "next": "14.2.30",
+    "node-fetch": "^2.6.7",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
